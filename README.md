@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Project Description
+Il s'agit d'une application web de gestion des tâches et de collaboration en ligne. Cette plateforme permet aux utilisateurs de créer, organiser et suivre les tâches individuelles et en équipe. Elle offre des fonctionnalités telles que la création de listes de tâches, la définition des priorités, l'assignation des tâches aux membres de l'équipe, la possibilité de définir des échéances, et la communication en temps réel grâce à des commentaires et des notifications. L'objectif principal est d'améliorer la productivité et la coordination au sein des équipes en centralisant toutes les informations et actions liées aux projets.
 ## Project Preview
 ![Acceuil(1)](https://github.com/ousalahimane/Productive-Project/assets/130361823/91eba40d-2f66-4e1e-a2d2-2622ba9cb94b)
 ![image 16](https://github.com/ousalahimane/Productive-Project/assets/130361823/39810947-6fd6-404c-91a9-142fb13369fa)
