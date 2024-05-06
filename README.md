@@ -8,6 +8,9 @@
 </p>
 
 ## Project Preview
+![Acceuil(1)](https://github.com/ousalahimane/Productive-Project/assets/130361823/91eba40d-2f66-4e1e-a2d2-2622ba9cb94b)
+![image 16](https://github.com/ousalahimane/Productive-Project/assets/130361823/39810947-6fd6-404c-91a9-142fb13369fa)
+![Group 4](https://github.com/ousalahimane/Productive-Project/assets/130361823/6e5ea59b-4c96-47bc-b537-8ca1b18e77ed)
 
 ## About Laravel
 ![Alt text](https://imgur.com/undefined)
